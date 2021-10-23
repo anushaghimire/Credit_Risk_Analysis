@@ -2,6 +2,15 @@
 
 # Overview
 ## About:
+Use the following machine learning models to predict credit card risk analysis:
+- Oversampling
+  - Naive Random Oversampling
+  - SMOTE Oversampling
+- Undersampling
+- Combination (Over and Under) Sampling
+- Balanced Random Forest Classifier
+- Easy Ensemble AdaBoost Classifier
+- 
 Data used : LoanStats_2019Q1.csv
 
 
@@ -10,6 +19,9 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 ## Results:  
+- jhfhdskj
+- mdgjdsfsdh
+- 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ## Summary: 
