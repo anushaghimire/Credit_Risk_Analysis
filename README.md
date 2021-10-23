@@ -1,7 +1,6 @@
 # Credit_Risk_Analysis
 
 # Overview
-## About:
 Use the following machine learning models to predict credit card risk analysis:
 - Oversampling
   - Naive Random Oversampling
@@ -10,8 +9,8 @@ Use the following machine learning models to predict credit card risk analysis:
 - Combination (Over and Under) Sampling
 - Balanced Random Forest Classifier
 - Easy Ensemble AdaBoost Classifier
-- 
-Data used : LoanStats_2019Q1.csv
+
+ **Data used : LoanStats_2019Q1.csv**
 
 
 ## Purpose: 
