@@ -18,7 +18,9 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 ## Results:  
-- jhfhdskj
+
+<img width="1025" alt="Screen Shot 2021-10-23 at 1 08 39 PM" src="https://user-images.githubusercontent.com/85364095/138570147-6dc45cad-4ae2-4f91-bad6-4f8f232cd003.png">
+
 - mdgjdsfsdh
 - 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
