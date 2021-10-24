@@ -50,13 +50,17 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 - Combination (Over and Under) Sampling
+  - The balanced accuracy score is 65%.
+  - From our results, the precision for the high-risk is low about 1% and for low-risk precision is high 100%.
+  -  The recall value for high-risk(0.72) is higher than the low-risk(0.57).
+<img width="739" alt="Screen Shot 2021-10-24 at 3 40 30 PM" src="https://user-images.githubusercontent.com/85364095/138615815-79120ded-87ce-4037-ac06-1b01b8944739.png">
 
 
 - Ensemble Learners
 - Balanced Random Forest Classifier
   - The balanced accuracy score is 79%.
   - From our results, the precision for the high-risk is low about 3% and for low-risk precision is high 100%.
-  - The recall value for high-risk is lower(0.7) than the low-risk(.87).
+  - The recall value for high-risk is lower(0.87) than the low-risk(.7).
 <img width="722" alt="Screen Shot 2021-10-24 at 2 11 15 PM" src="https://user-images.githubusercontent.com/85364095/138613111-d03cd5b4-593d-4806-a3f5-77611d591561.png">
 
 - Easy Ensemble AdaBoost Classifier
