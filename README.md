@@ -53,9 +53,10 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 - Easy Ensemble AdaBoost Classifier
 
-<img width="756" alt="Screen Shot 2021-10-24 at 1 32 36 PM" src="https://user-images.githubusercontent.com/85364095/138611824-b21812a4-646f-421b-a58d-a6a64b4bd307.png">
 
 
+
+<img width="791" alt="Screen Shot 2021-10-24 at 2 09 21 PM" src="https://user-images.githubusercontent.com/85364095/138613055-291596d0-2ecd-4301-af56-24db2c35d0e2.png">
 
 
 - 
