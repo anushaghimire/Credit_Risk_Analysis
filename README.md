@@ -33,6 +33,9 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 <img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611719-1a0c0a29-8553-4f2d-9625-0c2899714862.png">
 
+- Combination (Over and Under) Sampling
+<img width="740" alt="Screen Shot 2021-10-24 at 1 29 05 PM" src="https://user-images.githubusercontent.com/85364095/138611756-664f36cc-6c09-4983-93f1-2f68e635754e.png">
+
 
 
 
