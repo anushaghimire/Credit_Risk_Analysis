@@ -23,7 +23,8 @@ The purpose of the study is to apply machine learning to solve a real-world chal
   - The accuracy score is 65% which means the classifier is correct only 65% with the model.
   -  From our results, the precision for the high-risk is low about 1% and for low-risk precision is high 100%.
   -  The recall value for high-risk is slightly lower than the low-risk.
-<img width="843" alt="Screen Shot 2021-10-24 at 1 26 16 PM" src="https://user-images.githubusercontent.com/85364095/138611629-83b393b0-203d-4d99-8623-89fb82971d23.png">
+<img width="778" alt="Screen Shot 2021-10-24 at 3 19 58 PM" src="https://user-images.githubusercontent.com/85364095/138615248-bc6c109b-227b-4cbf-837b-fe10aa144431.png">
+
 
 
 
