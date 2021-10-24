@@ -78,5 +78,5 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 ## Summary: 
 Looking at the results we can see that all the models are weak in predicting the precision of high-risk credit. But, the value of precision for the low-risk is high in all models. The most weakest model in predicting the credit card risk is undersampling method which shows the lowest f1 score. Therefore, I donot recommend using undersampling model to predict credit card risk.
-
+Whereas, the **Easy Ensemble AdaBoost Classifier** model shows the better results with recall value for both hig-risk and low-risk with over 90%, but the f1 score is still low for determining high-risk credit.
 
