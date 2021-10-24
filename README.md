@@ -18,10 +18,24 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 ## Results:  
+- Naive Random Oversampling<img width="843" alt="Screen Shot 2021-10-24 at 1 26 16 PM" src="https://user-images.githubusercontent.com/85364095/138611629-83b393b0-203d-4d99-8623-89fb82971d23.png">
 
-<img width="1025" alt="Screen Shot 2021-10-23 at 1 08 39 PM" src="https://user-images.githubusercontent.com/85364095/138570147-6dc45cad-4ae2-4f91-bad6-4f8f232cd003.png">
 
-- mdgjdsfsdh
+
+
+
+- SMOTE Oversampling
+
+<img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611674-e6558d9b-1245-4130-bd5b-29ea3ce0e625.png">
+
+- Undersampling
+
+
+<img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611719-1a0c0a29-8553-4f2d-9625-0c2899714862.png">
+
+
+
+
 - 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
