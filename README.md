@@ -29,7 +29,7 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 <img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611674-e6558d9b-1245-4130-bd5b-29ea3ce0e625.png">
 
-- Undersampling
+- Undersampling(ClusterCentroids resampler)
 
 
 <img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611719-1a0c0a29-8553-4f2d-9625-0c2899714862.png">
