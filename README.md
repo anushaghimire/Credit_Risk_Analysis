@@ -30,9 +30,11 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 - SMOTE Oversampling
-  - The balanced accuracy score is 
+  - The balanced accuracy score is 65%.
+  - 
 
-<img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611674-e6558d9b-1245-4130-bd5b-29ea3ce0e625.png">
+<img width="760" alt="Screen Shot 2021-10-24 at 1 50 47 PM" src="https://user-images.githubusercontent.com/85364095/138612477-cbba7281-aa1c-4964-9b00-dc4b6b23887e.png">
+
 
 - Undersampling(ClusterCentroids resampler)
 
@@ -44,6 +46,9 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 - Ensemble Learners
 - Balanced Random Forest Classifier
+  - The balanced accuracy score is 79%.
+  - From our results, the precision for the high-risk is low about 3% and for low-risk precision is high 100%.
+  - The recall value for high-risk is lower(0.7) than the low-risk(.87).
 <img width="729" alt="Screen Shot 2021-10-24 at 1 31 25 PM" src="https://user-images.githubusercontent.com/85364095/138611800-1358b3ba-ec70-4ebc-8361-d1a65e8a03a7.png">
 
 - Easy Ensemble AdaBoost Classifier
