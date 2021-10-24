@@ -18,6 +18,7 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 ## Results:  
+- **Credit Risk Resampling Techniques**
 - Naive Random Oversampling<img width="843" alt="Screen Shot 2021-10-24 at 1 26 16 PM" src="https://user-images.githubusercontent.com/85364095/138611629-83b393b0-203d-4d99-8623-89fb82971d23.png">
 
 
@@ -35,6 +36,14 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 - Combination (Over and Under) Sampling
 <img width="740" alt="Screen Shot 2021-10-24 at 1 29 05 PM" src="https://user-images.githubusercontent.com/85364095/138611756-664f36cc-6c09-4983-93f1-2f68e635754e.png">
+
+- Ensemble Learners
+- Balanced Random Forest Classifier
+<img width="729" alt="Screen Shot 2021-10-24 at 1 31 25 PM" src="https://user-images.githubusercontent.com/85364095/138611800-1358b3ba-ec70-4ebc-8361-d1a65e8a03a7.png">
+
+- Easy Ensemble AdaBoost Classifier
+
+<img width="756" alt="Screen Shot 2021-10-24 at 1 32 36 PM" src="https://user-images.githubusercontent.com/85364095/138611824-b21812a4-646f-421b-a58d-a6a64b4bd307.png">
 
 
 
