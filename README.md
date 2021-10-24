@@ -39,17 +39,17 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 - Undersampling(ClusterCentroids resampler)
 
 
-<img width="825" alt="Screen Shot 2021-10-24 at 1 27 44 PM" src="https://user-images.githubusercontent.com/85364095/138611719-1a0c0a29-8553-4f2d-9625-0c2899714862.png">
+
 
 - Combination (Over and Under) Sampling
-<img width="740" alt="Screen Shot 2021-10-24 at 1 29 05 PM" src="https://user-images.githubusercontent.com/85364095/138611756-664f36cc-6c09-4983-93f1-2f68e635754e.png">
+
 
 - Ensemble Learners
 - Balanced Random Forest Classifier
   - The balanced accuracy score is 79%.
   - From our results, the precision for the high-risk is low about 3% and for low-risk precision is high 100%.
   - The recall value for high-risk is lower(0.7) than the low-risk(.87).
-<img width="729" alt="Screen Shot 2021-10-24 at 1 31 25 PM" src="https://user-images.githubusercontent.com/85364095/138611800-1358b3ba-ec70-4ebc-8361-d1a65e8a03a7.png">
+<img width="722" alt="Screen Shot 2021-10-24 at 2 11 15 PM" src="https://user-images.githubusercontent.com/85364095/138613111-d03cd5b4-593d-4806-a3f5-77611d591561.png">
 
 - Easy Ensemble AdaBoost Classifier
 
