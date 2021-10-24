@@ -22,7 +22,7 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 - Naive Random Oversampling
   - The accuracy score is 65% which means the classifier is correct only 65% with the model.
   -  From our results, the precision for the high-risk is low about 1% and for low-risk precision is high 100%.
-  -  The recall value for high-risk is higher than the low-risk.
+  -  The recall value for high-risk is slightly lower than the low-risk.
 <img width="843" alt="Screen Shot 2021-10-24 at 1 26 16 PM" src="https://user-images.githubusercontent.com/85364095/138611629-83b393b0-203d-4d99-8623-89fb82971d23.png">
 
 
@@ -31,7 +31,8 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 - SMOTE Oversampling
   - The balanced accuracy score is 65%.
-  - 
+  - From our results, the precision for the high-risk is low about 1% and for low-risk precision is high 100%.
+  - The recall value for high-risk is higher than the low-risk.
 
 <img width="760" alt="Screen Shot 2021-10-24 at 1 50 47 PM" src="https://user-images.githubusercontent.com/85364095/138612477-cbba7281-aa1c-4964-9b00-dc4b6b23887e.png">
 
