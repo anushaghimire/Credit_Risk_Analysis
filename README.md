@@ -39,6 +39,11 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 - Undersampling(ClusterCentroids resampler)
+
+  - The balanced accuracy score is 55%.
+  - From our results, the precision for the high-risk is low about 1% and for low-risk precision is high 100%.
+  -  The recall value for high-risk(0.69) is higher than the low-risk(0.40).
+
 <img width="740" alt="Screen Shot 2021-10-24 at 3 16 43 PM" src="https://user-images.githubusercontent.com/85364095/138615178-9ba297dc-0585-4e3d-b4d2-1cbd5ad000ab.png">
 
 
