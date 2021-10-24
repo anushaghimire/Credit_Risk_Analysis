@@ -75,8 +75,8 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 <img width="791" alt="Screen Shot 2021-10-24 at 2 09 21 PM" src="https://user-images.githubusercontent.com/85364095/138613055-291596d0-2ecd-4301-af56-24db2c35d0e2.png">
 
 
-- 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ## Summary: 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Looking at the results we can see that all the models are weak in predicting the precision of high-risk credit. But, the value of precision for the low-risk is high in all models. The most weakest model in predicting the credit card risk is undersampling method which shows the lowest f1 score. Therefore, I donot recommend using undersampling model to predict credit card risk.
+
+
