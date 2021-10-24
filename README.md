@@ -38,6 +38,7 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 
 
 - Undersampling(ClusterCentroids resampler)
+<img width="740" alt="Screen Shot 2021-10-24 at 3 16 43 PM" src="https://user-images.githubusercontent.com/85364095/138615178-9ba297dc-0585-4e3d-b4d2-1cbd5ad000ab.png">
 
 
 
