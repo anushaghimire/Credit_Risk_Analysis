@@ -53,6 +53,10 @@ The purpose of the study is to apply machine learning to solve a real-world chal
 <img width="722" alt="Screen Shot 2021-10-24 at 2 11 15 PM" src="https://user-images.githubusercontent.com/85364095/138613111-d03cd5b4-593d-4806-a3f5-77611d591561.png">
 
 - Easy Ensemble AdaBoost Classifier
+  - The balanced accuracy score is 93%.
+  - From our results, the precision for the high-risk is low about 9% and for low-risk precision is high 100%.
+  - The recall value for high-risk and low-risk are very similar (92 and 94 respectively).
+
 
 
 
